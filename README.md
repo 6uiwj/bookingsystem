@@ -4,7 +4,7 @@
 2. [주요 기능](#주요-기능)
 3. [맡은 역할](#맡은-역할)
 4. [기능 설계](#기능-설계)
-5. [구현 화면](#구현-화면(예약파트))
+5. [구현 화면](#구현-화면)
 
 
 <hr>
@@ -44,7 +44,7 @@
 
 <br>
 
- ### ✨구현 화면(예약파트)
+ ### ✨구현 화면
 ![Untitled (4)](https://github.com/6uiwj/bookingsystem/assets/148047079/cdd795a5-79de-48af-aa5d-d702087e0b01)
 ![Untitled (5)](https://github.com/6uiwj/bookingsystem/assets/148047079/dd93f2a0-272a-4145-a35f-a0fccc6d0b44)
 ![Untitled (6)](https://github.com/6uiwj/bookingsystem/assets/148047079/f1b11750-a368-4edd-a673-aefe08b8858f)
